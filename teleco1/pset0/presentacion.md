@@ -18,7 +18,7 @@ Usen los comandos de arriba para navegar en la consola hasta encontrar la carpet
 
 ## El README
 ---
-En la terminal, escriban `touch README.md`, esto va a cread un archivo con la extensión `md` que viene de `markdown`, este es un lenguaje especial para escribir con una sintaxis bastante cómoda que GitHub reconoce y renderiza en el repositorio. Por que el nombre `README`? Porque GitHub lo usa inmediatamente en el repositorio como una muestra y cualquier persona que entre al repositorio ve eso primero.
+En la terminal, escriban `touch README.md`, esto va a crear un archivo con la extensión `md` que viene de `markdown`, este es un lenguaje especial para escribir con una sintaxis bastante cómoda que GitHub reconoce y renderiza en el repositorio. Por que el nombre `README`? Porque GitHub lo usa inmediatamente en el repositorio como una muestra y cualquier persona que entre al repositorio ve eso primero.
 
 La tarea de ustedes es presentarse en ese archivo. Mínimamente el archivo tiene que:
 
@@ -34,7 +34,7 @@ Fuera de eso, siéntanse libres de escribir lo que quieran y usar todo lo que gu
 
 Pueden ver mi presentación en [mi repositorio](https://github.com/trq20/carlassaraf) si quieren para sacar ideas :smile: (Si van al `README` y hacen click en `raw` pueden ver el código fuente).
 
-Pueden usar el bloc de notas, Visual Studio Code o cualquier otro editor de texto para escribir y modificar el archivo. Si tienen Git Bash, pueden modificarlo desde la misma terminal escribiendo `nano README.md`. Si prefieren, también pueden descargar [Typora](https://typora.io/#windows) que es un editor dedicado para `markdown` y tiene bastantes herramientas.
+Pueden usar el bloc de notas, Visual Studio Code o cualquier otro editor de texto para escribir y modificar el archivo. Si tienen Git Bash, pueden modificarlo desde la misma terminal escribiendo `nano README.md`. Si prefieren, también pueden descargar [Typora](https://typora.io/#windows) que es un editor dedicado para `markdown` y tiene bastantes herramientas. Sino, pueden descargar una extensión de markdown para Visual Studio Code.
 
 ## El repositorio
 ---

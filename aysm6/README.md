@@ -1,15 +1,10 @@
-# Intro a Adquisición de Datos
+# Intro a Computadoras y Sistemas de Control
 ---
-Bienvenidos a `Adquisición de datos`, parte del módulo de `Instrumental y Sistemas Eléctricos`. El objetivo de esta materia es ayudarles a continuar desarrollando habilidades de programación, particularmente aplicado a microcontroladores y aprender a trabajar con distintos tipos de transductores para procesar información analógica de temperatura, presión, nivel y caudal. 
+Bienvenidos a `Computadoras y Sistemas de Control`, parte del módulo de `Aeronaves y Sistemas Mecánicos`. 
 
 Algunas de las cosas que vamos a estar trabajando son:
 
-- Algoritmos y programación estructurada.
-- Estructuras de control, bucles, condicionales, funciones y procedimientos.
-- Librerías, procedimientos, recursión.
-- Generación, lectura y operación de archivos.
-- Estructuras de datos.
-- Programación de microcontroladores y control de puertos digitales y analógicos.
+
 
 Vamos a arrancar usando algo de lenguaje `C/C++` directamente aplicado a microcontroladores. No vamos a enfocarnos demasiado en manejar todo a muy bajo nivel, se les van a proporcionar librerías para poder abstraerse de esas complicaciones por ahora y poder concentrarse mas en armar los algoritmos para resolver el problema.
 

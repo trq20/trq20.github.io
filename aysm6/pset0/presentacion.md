@@ -18,7 +18,7 @@ Usen los comandos de arriba para navegar en la consola hasta encontrar la carpet
 
 ## El README
 ---
-En la terminal, escriban `touch README.md`, esto va a cread un archivo con la extensión `md` que viene de `markdown`, este es un lenguaje especial para escribir con una sintaxis bastante cómoda que GitHub reconoce y renderiza en el repositorio. Por que el nombre `README`? Porque GitHub lo usa inmediatamente en el repositorio como una muestra y cualquier persona que entre al repositorio ve eso primero.
+En la terminal, escriban `touch README.md`, esto va a crear un archivo con la extensión `md` que viene de `markdown`, este es un lenguaje especial para escribir con una sintaxis bastante cómoda que GitHub reconoce y renderiza en el repositorio. Por que el nombre `README`? Porque GitHub lo usa inmediatamente en el repositorio como una muestra y cualquier persona que entre al repositorio ve eso primero.
 
 La tarea de ustedes es presentarse en ese archivo. Mínimamente el archivo tiene que:
 

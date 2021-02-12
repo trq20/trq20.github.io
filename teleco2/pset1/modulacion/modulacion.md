@@ -1,4 +1,5 @@
 # Modulación
+---
 
 ## Contexto
 ---
@@ -22,7 +23,7 @@ $$
 E_{AM}(t)= E_c sin(2\pi f_ct) + \frac{E_m}{2} sin[2 \pi (f_c-f_m)t] - \frac{E_m}{2} sin[2 \pi (f_c+f_m)t]
 $$
 
-La justificación de expresión pueden verla en este [apartado](https://www.notion.so/An-lisis-matem-tico-de-AM-7ab6df2964f14ca3a28ff0b3800836a5).
+La justificación de expresión pueden verla en este [apartado](../am%20formula.md).
 
 ## Donde empezar
 ---
