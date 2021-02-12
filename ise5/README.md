@@ -13,7 +13,7 @@ Algunas de las cosas que vamos a estar trabajando son:
 
 Vamos a arrancar usando algo de lenguaje `C/C++` directamente aplicado a microcontroladores. No vamos a enfocarnos demasiado en manejar todo a muy bajo nivel, se les van a proporcionar librerías para poder abstraerse de esas complicaciones por ahora y poder concentrarse mas en armar los algoritmos para resolver el problema.
 
-Para hacer todo esto, vamos a necesitar algunas herramientas, sigan estas [instrucciones](../guides/VS%20Code%20-%20AVR.md) para poder preparar todo.
+Para hacer todo esto, vamos a necesitar algunas herramientas, sigan estas [instrucciones](../guides/VSCodeAVR.md) para poder preparar todo.
 
 Vamos a hacer uso de `Proteus 8` como simulador. Pueden ver como instalarlo en estas [instrucciones](../guides/proteus.md).
 
