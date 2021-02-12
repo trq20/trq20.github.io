@@ -53,3 +53,5 @@ Volviendo a la carpeta donde creamos nuestra presentación, vamos a escribir:
 - `git push url master` donde `url` es el que copiaron de GitHub y `master` es el nombre de la rama que vamos a publicar. Ya vamos a hablar mas en detalle de lo que son las ramas.
 
 Si no hay errores, visiten `https://github.com/trq20/USERNAME` y deberían poder ver el repositorio publicado.
+
+Cuando terminen, completen este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSe-YGXNLOtHs7gRTuLo72qGpF6j_TL9N4VvSRVBmlG7awcqzg/viewform).

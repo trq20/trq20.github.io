@@ -1,4 +1,4 @@
-# Intro a telecomunicaciones
+# Ondas
 ---
 Para arrancar, vamos a ir familiarizándonos con algunas cuestiones relacionadas con las ondas. Vamos a comenzar con el concepto de longitud de onda y como se clasifican en el espectro electromagnético. 
 
