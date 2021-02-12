@@ -15,6 +15,8 @@ Vamos a arrancar usando algo de lenguaje `C/C++` directamente aplicado a microco
 
 Para hacer todo esto, vamos a necesitar algunas herramientas, sigan estas [instrucciones](../guides/VS%20Code%20-%20AVR.md) para poder preparar todo.
 
+Vamos a hacer uso de `Proteus 8` como simulador. Pueden ver como instalarlo en estas [instrucciones](../guides/proteus.md).
+
 Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una herramienta muy útil para desarrollo de software que permite hacer un control de versiones en repositorios. Para usarla, hacemos lo siguiente:
 
 - Descarguen [Git para Windows](https://git-scm.com/download/win) e instálenlo. Verifiquen en la terminal de Windows la instalación escribiendo el comando `git`. Si fue correcta, tienen que ver un mensaje de ayuda.
