@@ -1,6 +1,6 @@
 # Intro a Control de Interfaces
 ---
-Bienvenidos a `Control de Interfaces`, parte del módulo de `Instrumental y Sistemas Electricos`. El objetivo de esta materia es ayudarles a empezar a programar y entender algunos conceptos básicos de algoritmos y resolución de problemas en distintos lenguajes de programación.
+Bienvenidos a `Control de Interfaces`, parte del módulo de `Instrumental y Sistemas Eléctricos`. El objetivo de esta materia es ayudarles a empezar a programar y entender algunos conceptos básicos de algoritmos y resolución de problemas en distintos lenguajes de programación.
 
 Algunas de las cosas que vamos a estar trabajando son:
 
@@ -24,11 +24,11 @@ Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una her
 - Creen una cuenta en [GitHub](https://github.com/) con su correo. Esta es una página muy útil para tener repositorios y poder trabajar remotamente con otras personas si fuera necesario.  
 - Luego únanse al [repositorio](https://school-org-repo.herokuapp.com/) de nuestra materia ingresando su usuario de GitHub, les va a llegar una invitación para unirse al repositorio en el correo.
 
-Cuando tengan todo listo, completen esta [actividad](./pset0/presentacion.md) y luego completen este [formulario](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfzYob_ncRwCmsmQw9ANbVTY5lSTaKw8_WUkWNjcIKaiBuhyA/viewform).
+Cuando tengan todo listo, completen esta [actividad](pset0/presentacion.md) y luego completen este [formulario](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfzYob_ncRwCmsmQw9ANbVTY5lSTaKw8_WUkWNjcIKaiBuhyA/viewform).
 
 ## Actividades
 ---
 - [Presentacion](pset0/presentacion.md).
-- [Introducción a C](./pset1/README.md).
-- [Arrays](./pset2/README.md).
+- [Introducción a C](pset1/README.md).
+- [Arrays](pset2/README.md).
 - [GPIO](pset3/README.md).
