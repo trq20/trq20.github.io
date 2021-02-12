@@ -1,18 +1,14 @@
 # Cifrado
 ---
+
 ## Contexto
 ---
-
 En el mundo de la informática muchas veces es necesario encriptar claves o información para protegerla. Esto se hace mediante distintos tipos de cifrados o encriptados. Estos son algoritmos que como entrada reciben una cadena de caracteres que se desea encriptar y una clave, dependiendo de como funcione, como salida va a devolver una nueva cadena de caracteres cifrada de acuerdo a lo que diga la clave.
 
 El objetivo de este problema es poder hacer un algoritmo de cifrado sencillo, que como entrada reciba una cadena y una clave de 26 caracteres que todos deben ser letras (no estamos contando la ñ) y va a tomar cada letra de la cadena de entrada y cambiarla por la que indique la clave.
 
-
-
 ## Donde empezar
-
 ---
-
 Dentro de la carpeta `pset2/cifrado` clonen la rama `pset2/cifrado` del repositorio `ise4` donde van a encontrarse con las bases del algoritmo que van a tener que desarrollar. Para clonarlo, escriban en la terminal:
 
 ```
@@ -21,12 +17,8 @@ git clone -b pset2/cifrado https://github.com/trq20/ise4.git
 
 Dentro de la carpeta que se va a clonar, van a ver un `cifrado.c` donde van a programar.
 
-
-
 ## Entendiendo el programa
-
 ---
-
 En `cifrado.c` van a encontrarse primero con tres librerías:
 
 - `stdio` para funciones de entrada y salida.
@@ -42,12 +34,8 @@ Dentro del `main` pueden encontrar un condicional que llama a la función `valid
 
 Luego del `main`, van a ver finalmente el espacio para poder desarrollar las funciones de `validar` y `cifrar`.
 
-
-
 ## Especificaciones
-
 ---
-
 El algoritmo que diseñen tiene que ser capaz de:
 
 - Admitir la clave al momento de ejecutar el programa escribiendo:
@@ -71,10 +59,7 @@ Si la clave no fue proporcionada o se es considerada válida, la función debe d
 - Evaluar cada caracter de la cadena y, de acuerdo a su orden en el alfabeto (a es 0, b es 1, etc.), reemplazarlo por el caracter que ocupe ese lugar en la clave. Es decir, si la cadena comienza con *ium* entonces la *a* es reemplazada por la *i*, la *b* por la *u* y la *c* por la *m*.
 - El cifrado debe respetar las mayúsculas y minúsculas, es decir, si en la cadena hay caracteres en mayúscula, deben conservarse en mayúscula en la cadena encriptada.
 
-
-
 ## Orientación
-
 ---
 
 [![](https://img.youtube.com/vi/ID VIDEO/0.jpg)](LINK A VIDEO)
@@ -104,12 +89,8 @@ while(cadena[i] != '\0') {
 
 - Recuerden que cada caracter tiene un valor numérico que pueden encontrar en la tabla ASCII, busquen que valores tienen asignados las letras y evalúen como pueden usar ese valor como índice para un array.
 
-
-
 ## Como probar el código
-
 ---
-
 Prueben los siguientes escenarios para ver si su código funciona correctamente:
 
 - Si no escriben una clave:
@@ -148,21 +129,17 @@ Texto: Este es un texto de prueba.
 Cifrado: Tlzt tl xf ztbzg rt hkxtwq.
 ```
 
-
-
 ## Como entregar
-
 ---
-
 Dentro de la carpeta `pset2/cifrado` abrir la terminal y escribir `git init`. Luego, crear un archivo dentro de la carpeta que se llame `README.md`. El archivo debe tener este contenido:
 
-  ```markdown
+```markdown
 # Cifrado
 
 Alumno: Nombre y apellido
 Curso: Curso
 Materia: Control de Interfaces
-  ```
+```
 
 Pueden agregar cualquier comentario u observación adicional que crean que pueda ser útil dentro de este archivo.
 
@@ -176,8 +153,8 @@ git checkout -b ise4/2021/arrays/cifrado
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
-  ```
+```
 git push https://github.com/trq20/USERNAME.git ise4/2021/arrays/cifrado
-  ```
+```
 
 Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/ise4/2021/arrays/cifrado`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.

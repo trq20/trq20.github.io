@@ -1,9 +1,8 @@
 # Diodo
 ---
+
 ## Contexto
-
 ---
-
 Los circuitos con diodos matemáticamente acarrean inconvenientes que hacen que hasta los circuitos mas sencillos sean complejos de resolver. Analicemos lo que ocurre en el circuito de abajo:
 
 ![Circuito Diodo](https://web.njit.edu/~pereira/EE291/images/291-9-1.gif) 
@@ -22,12 +21,8 @@ Esto nos deja con dos posibilidades, o resolvemos el problema gráficamente (gra
 
 Este método es muy tedioso resolverlo a mano porque requiere a veces muchas iteraciones, pero la tarea de ustedes hoy va a ser diseñar un algoritmo que nos facilite esta tarea.
 
-
-
 ## Donde empezar
-
 ---
-
 Dentro de la carpeta `pset1/diodo` clonen el la rama `pset1/diodo` del repositorio `ise4` donde van a encontrarse con parte de los datos para resolver el problema. Escriban en la terminal:
 
 ```
@@ -36,12 +31,8 @@ git clone -b pset1/diodo https://github.com/trq20/ise4.git
 
 Y dentro de la carpeta que se va a clonar, van a ver un `diodo.c` donde van a programar.
 
-
-
 ## Entendiendo el programa
-
 ---
-
 Dentro de `diodo.c` van a ver dos `#include` a las librerías `stdio` y `math`, donde la primera nos dejaba usar funciones como `scanf` y `printf` mientras que la segunda nos va a permitir resolver la exponencial con la función `exp`.
 
 Luego van a ver un par de constantes y variables ya definidas. La palabra `const` define que el valor que tenemos a la derecha no puede cambiar en todo el programa, en este caso, vamos a tener una constante para la corriente de saturación del diodo y otra para la fuente. Luego tenemos una variable que va a representar a la tensión del diodo. Le dimos un valor inicial porque sabemos por experiencia que el valor final va estar cerca de esos valores para darles una ayudita de entrada.
@@ -50,12 +41,8 @@ Noten que el valor de la resistencia no esta definida, eso es porque van a tener
 
 Las cosas mencionadas arriba **no las deben cambiar**, abajo van a tener espacio para resolver el problema que tienen por delante.
 
-
-
 ## Especificaciones
-
 ---
-
 El algoritmo que diseñen tiene que ser capaz de:
 
 - Mostrar un mensaje pidiendo por un valor de resistencia (puede ser entero si así lo prefieren) y guardarlo en una variable. Asuman que el valor de resistencia siempre va a ser válido.
@@ -72,10 +59,7 @@ El valor de VD es 0.32 V
 La corriente que circula es de 14.95 mA
 ```
 
-
-
 ## Orientación
-
 ---
 
 [![](https://img.youtube.com/vi/ID VIDEO/0.jpg)](LINK A VIDEO)
@@ -97,12 +81,8 @@ La razón por la que multiplicamos por 1000 ese valor es porque normalmente esta
 - Pueden compilar el programa que hagan con `gcc -o cajero cajero.c` y ejecutarlo con `./cajero`.
 - Si al ejecutar el programa notan que nunca devuelve un resultado, probablemente es porque no logre encontrar una solución al problema y va a ser necesario hacer que los ajustes de `VD` sean mas chicos.
 
-
-
 ## Como probar el código
-
 ---
-
 Les ofrecemos algunos ejemplos con los que pueden comparar para saber si su algoritmo esta resolviendo bien este problema:
 
 | R [Ohm] | VD [V] | ID [mA] |
@@ -111,21 +91,17 @@ Les ofrecemos algunos ejemplos con los que pueden comparar para saber si su algo
 | 330     | 0.32   | 14.95   |
 | 2200    | 0.28   | 2.99    |
 
-
-
 ## Como entregar
-
 ---
-
 Dentro de la carpeta `pset1/diodo` abrir la terminal y escribir `git init`. Luego, crear un archivo dentro de la carpeta que se llame `README.md`. El archivo debe tener este contenido:
 
-  ```markdown
+```markdown
 # Diodo
 
 Alumno: Nombre y apellido
 Curso: Curso
 Materia: Control de Interfaces
-  ```
+```
 
 Pueden agregar cualquier comentario u observación adicional que crean que pueda ser útil dentro de este archivo.
 
@@ -139,9 +115,9 @@ git checkout -b ise4/2021/c/diodo
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
-  ```
+```
 git push https://github.com/trq20/USERNAME.git ise4/2021/c/diodo
-  ```
+```
 
 Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/ise4/2021/c/diodo`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
 
