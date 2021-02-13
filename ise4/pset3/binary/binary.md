@@ -1,3 +1,7 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 # Binary
 ---
 
@@ -6,13 +10,17 @@
 Estamos acostumbrados a usar la base decimal como sistema numérico, es decir, es un sistema que tiene 10 dígitos (0 al 9). En informática, es normal hablar de la base `binaria` o `hexadecimal` (0 al 1 y 0 a F respectivamente). En esta oportunidad, vamos a pensar un poco en el sistema binario y tratar de hacer un programa que transforme un número binario en uno decimal.
 
 Para empezar, podemos pensar en el sistema binario como una serie de llaves que están encendidos (1) o apagados (0). Como el sistema decimal, cada dígito tiene un peso, por ejemplo:
+
 $$
 123 = 100 + 20 + 3 = 1 x 10^2 + 2 x 10^1 + 3 x 10^0
 $$
+
 Lo mismo ocurre en el sistema binario, por ejemplo:
+
 $$
 13 = 8 + 4 + 1 = 2^3 + 2^2 + 2^0 = 1101
 $$
+
 Noten que escribimos el número como suma de potencias de dos y decir que esas potencias de dos 'están' con un 1 o 'no están' con un 0, en el ejemplo de arriba, el 0 representa que falta la potencia de 1. Toma un tiempo acostumbrarse a pensar de esta manera, pero podemos escribir cualquier número de esta forma.
 
 El programa que vamos a escribir, va a ir a un microcontrolador, que va a tomar como entrada una serie de llaves que representen los unos y ceros y luego tratar de convertir esa serie de unos y cero en un número decimal.
@@ -55,7 +63,6 @@ Vayan a la opción de *Código > Texto* y ahí pueden pegar el programa que clon
 ## Especificaciones
 ---
 El algoritmo que diseñen tiene que ser capaz de:
-
 - Mostrar el valor binario que representan los conmutadores como un valor decimal en los display 7 segmentos.
 - Mostrar de manera fluida ambos dígitos, probablemente necesiten un delay pequeño para lograrlo.
 
@@ -75,7 +82,6 @@ El algoritmo que diseñen tiene que ser capaz de:
 ## Como probar el código
 ---
 Pueden probar las siguientes combinaciones:
-
 - Con todos los conmutadores abajo, deben ver un `00`.
 - Con el 2, 4 y 6 arriba, deben ver un `42`.
 - Con el 1, 3 y 5 arriba, deben ver un `21`.

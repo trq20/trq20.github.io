@@ -10,7 +10,6 @@ A modo de actividad introductoria, vamos a empezar por el programa mas sencillo 
 Implementar en un archivo `hello.c` dentro de una carpeta `pset1/hello` un programa que resuelva lo planteado arriba.
 
 El programa debe:
-
 - Imprimir un mensaje pidiendo el nombre de la persona que ejecuta el programa.
 - Imprimir un mensaje saludando a la persona que ingresó el nombre.
 

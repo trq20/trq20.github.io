@@ -1,3 +1,7 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 # Diodo
 ---
 
@@ -8,13 +12,17 @@ Los circuitos con diodos matemáticamente acarrean inconvenientes que hacen que 
 ![Circuito Diodo](https://web.njit.edu/~pereira/EE291/images/291-9-1.gif) 
 
 Suponiendo que conocemos la tensión de la fuente y el valor de la resistencia, podemos expresar la siguiente ecuación:
+
 $$
 I_D = \frac{V_S-V_D}{R}
 $$
+
 Pero al mismo tiempo, la corriente en el diodo se expresa de la siguiente forma:
+
 $$
 I_D = I_S (e^{\frac{V_D}{V_T}}-1)
 $$
+
 Donde `Is` es la corriente de saturación del diodo, `VT` es normalmente `25 mV` y `VD` es la tensión del diodo que aparece en la primer ecuación. Este circuito queda entonces gobernado por dos ecuaciones, las cuales, si quisiéramos resolver por los métodos habituales como igualación o sustitución, resultan imposibles por la naturaleza exponencial de la segunda.
 
 Esto nos deja con dos posibilidades, o resolvemos el problema gráficamente (graficamos ambas ecuaciones y buscamos el cruce) o usamos un método iterativo, esto es, elegir un valor de `VD`, reemplazarlo en una de las ecuaciones y verificarlo en la segunda, continuando el proceso y ajustando la variable hasta que ambas ecuaciones den igual.
