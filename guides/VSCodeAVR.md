@@ -25,7 +25,7 @@ Antes que nada, verifiquen que puedan ejecutar el comando `make`. Para eso:
 
 ## Instalar WinAVR
 ---
-1. Consigan las herramientas de desarrollo para [Atmel] en (https://sourceforge.net/projects/winavr/files/latest/download).
+1. Consigan las herramientas de desarrollo para [Atmel](https://sourceforge.net/projects/winavr/files/latest/download).
 2. Ejecuten el instalador.
 
 ## El Makefile

@@ -1,3 +1,7 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 # Bienvenidos! 
 Pueden encontrar las actividades de la materia que les corresponda en estos links:
 
@@ -9,7 +13,7 @@ Pueden encontrar las actividades de la materia que les corresponda en estos link
 
 ## Guías
 ---
-- [VS Code - AVR](guides/VS%20Code%20-%20AVR.md).
+- [VS Code - AVR](guides/VSCodeAVR.md).
 - [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 - [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 - [Git](https://education.github.com/git-cheat-sheet-education.pdf).
