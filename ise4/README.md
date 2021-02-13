@@ -1,5 +1,8 @@
+{% include header.md %}
+
 # Intro a Control de Interfaces
 ---
+
 Bienvenidos a `Control de Interfaces`, parte del módulo de `Instrumental y Sistemas Eléctricos`. El objetivo de esta materia es ayudarles a empezar a programar y entender algunos conceptos básicos de algoritmos y resolución de problemas en distintos lenguajes de programación.
 
 Algunas de las cosas que vamos a estar trabajando son:
