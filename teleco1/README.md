@@ -1,3 +1,5 @@
+{% include header.md %}
+
 # Intro a Telecomunicaciones I
 ---
 Bienvenidos a `Telecomunicaciones I`. El objetivo de esta materia es empezar a familiarizarnos con lo que nos permite hacer comunicaciones a distancia hoy en día: las ondas electromagnéticas. Vamos a tratar de entender que son estos fenómenos, como se comportan, como interactúan con distintos medios y como se propagan, permitiendo que información llegue de un lugar a otro.
