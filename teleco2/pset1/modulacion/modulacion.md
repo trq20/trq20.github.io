@@ -1,4 +1,6 @@
-permalink: /teleco2/pset1/modulacion/
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 # Modulación
 ---
@@ -11,6 +13,7 @@ Para comenzar a hacer un análisis de la modulación en AM, recordemos que las s
 $$
 E_c(t)= E_c sin(2\pi f_ct)
 $$
+
 $$
 E_m(t)=E_m sin(2\pi f_mt)
 $$

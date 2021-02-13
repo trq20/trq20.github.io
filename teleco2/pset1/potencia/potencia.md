@@ -1,8 +1,14 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 # Potencia
+---
 
 ## Contexto
 ---
 La potencia eficaz de la portadora la podemos calcular como:
+
 $$
 P_c = \Big (\frac{E_c}{\sqrt{2}} \Big)^2 \frac{1}{R}=\frac{E_c^2}{2R}
 $$

@@ -1,3 +1,7 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 # Análisis matemático de AM
 ---
 Ahora toca analizar un poco mas en detalle que es lo que ocurre matemáticamente. Esto nos permitirá entender mejor como se genera una señal de AM, junto con algunos otros conceptos.
