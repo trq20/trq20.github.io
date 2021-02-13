@@ -7,6 +7,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ### Formula
 ---
+
 $$
 \lambda = \frac{C}{f} \space con \space C = 3 \times 10^{8} \frac{m}{s}
 $$
