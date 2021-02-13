@@ -1,10 +1,5 @@
-<script type="text/javascript" charset="utf-8" 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
-https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
-
-# Bienvenidos! 
-Pueden encontrar las actividades de la materia que les corresponda en estos links:
-
+## Materias
+---
 - [Control de Interfaces](ise4/README.md).
 - [Adquisición de Datos](ise5/README.md).
 - [Computadoras y Sistemas de Control](aysm6/README.md).
