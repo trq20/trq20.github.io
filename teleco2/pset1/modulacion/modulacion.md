@@ -28,7 +28,7 @@ $$
 E_{AM}(t)= E_c sin(2\pi f_ct) + \frac{E_m}{2} sin[2 \pi (f_c-f_m)t] - \frac{E_m}{2} sin[2 \pi (f_c+f_m)t]
 $$
 
-La justificación de expresión pueden verla en este [apartado](../am%20formula.md).
+La justificación de expresión pueden verla en este [apartado](../am-formula.md).
 
 ## Donde empezar
 ---
