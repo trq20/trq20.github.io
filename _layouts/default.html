@@ -36,7 +36,7 @@
 
     <div class="wrapper">
         <section>
-            {% if url == 'trq20.github.io/index' %}  
+            {% if request.get_full_path == 'trq20.github.io/index' %}  
             <div id="title">
                 <h1>{{ site.title | default: site.github.repository_name }}</h1>
                 <p>{{ site.description | default: site.github.project_tagline }}</p>
