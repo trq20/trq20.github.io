@@ -35,20 +35,9 @@
       </div><!-- end header -->
 
     <div class="wrapper">
-        <section>
-            {% if request.get_full_path == 'trq20.github.io/index' %}  
-            <div id="title">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-                <p>{{ site.description | default: site.github.project_tagline }}</p>
-                <hr>
-                <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-                <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-            </div>
-            {% endif %}
+      <section>
         {{ content }}
-
       </section>
-
     </div>
 
     {% if site.google_analytics %}
