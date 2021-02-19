@@ -172,6 +172,10 @@ dt {
     //background: blue;
     margin: 6px auto;
 
+    th {
+      border-bottom: 0;
+    }
+
     li {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
