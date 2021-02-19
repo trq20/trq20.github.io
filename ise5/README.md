@@ -1,5 +1,3 @@
-{% include header.md %}
-
 # Intro a Adquisición de Datos
 ---
 Bienvenidos a `Adquisición de datos`, parte del módulo de `Instrumental y Sistemas Eléctricos`. El objetivo de esta materia es ayudarles a continuar desarrollando habilidades de programación, particularmente aplicado a microcontroladores y aprender a trabajar con distintos tipos de transductores para procesar información analógica de temperatura, presión, nivel y caudal. 

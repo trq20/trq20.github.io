@@ -20,18 +20,31 @@
   <body>
       <div id="header">
         <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          <li class="fork"><a href="../index.md">Home</a></li>
-          <li class="fork"><a href="../ise4/README.md">ISE4</a></li>
-          <li class="fork"><a href="../ise5/README.md">ISE5</a></li>
-          <li class="fork"><a href="../aysm6/README.md">AYSM6</a></li>
-          <li class="fork"><a href="../teleco1/README.md">TELECO1</a></li>
-          <li class="fork"><a href="../teleco2/README.md">TELECO2</a></li>
+          <table>
+              <tr>
+                  <th><a href="{{ site.github.repository_url }}">View On GitHub</a></th>
+                  <th><a href="../index.md">Home</a></th>
+                  <th><a href="../ise4/README.md">ISE4</a></th>
+                  <th><a href="../ise5/README.md">ISE5</a></th>
+                  <th><a href="../aysm6/README.md">AYSM6</a></th>
+                  <th><a href="../teleco1/README.md">TELECO1</a></th>
+                  <th><a href="../teleco2/README.md">TELECO2</a></th>
+              </tr>
+          </table>
+          <!--
+          <li><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          <li><a href="../index.md">Home</a></li>
+          <li><a href="../ise4/README.md">ISE4</a></li>
+          <li><a href="../ise5/README.md">ISE5</a></li>
+          <li><a href="../aysm6/README.md">AYSM6</a></li>
+          <li><a href="../teleco1/README.md">TELECO1</a></li>
+          <li><a href="../teleco2/README.md">TELECO2</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
             <li class="title">DOWNLOADS</li>
           {% endif %}
+          -->
         </nav>
       </div><!-- end header -->
 

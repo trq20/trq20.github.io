@@ -1,5 +1,3 @@
-{% include header.md %}
-
 # Intro a Computadoras y Sistemas de Control
 ---
 Bienvenidos a `Computadoras y Sistemas de Control`, parte del módulo de `Aeronaves y Sistemas Mecánicos`. El objetivo de este entorno es profundizar en el estudio de microcontroladores y su arquitectura interna, junto con el desarrollo de sistemas de control.
