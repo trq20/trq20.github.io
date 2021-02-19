@@ -68,9 +68,11 @@ En este caso, los parámetros son:
 - La constante $\pi$ pueden obtenerla de `np.pi`.
 - Las funciones `seno` y `coseno` pueden usarlas como `np.sin` y `np.cos`.
 - Recuerden que el índice de modulación se calcula como:
+ 
 $$
 m = \frac{E_m}{E_c}
 $$
+
 - Para mas ayuda sobre como insertar una variable en un string pueden visitar esta [página](https://www.w3schools.com/python/ref_string_format.asp).
 
 ## Como entregar
@@ -95,13 +97,13 @@ En la terminal ahora corran los comandos:
 ```
 git add README.md am.py
 git commit -m "Initial commit"
-git checkout -b teleco2/2021/introAM/modulacion
+git checkout -b teleco2/2021/am/modulacion
 ```
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
 ```
-git push https://github.com/trq20/USERNAME.git teleco2/2021/introAM/modulacion
+git push https://github.com/trq20/USERNAME.git teleco2/2021/am/modulacion
 ```
 
-Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/introAM/modulacion`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
+Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/am/modulacion`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
