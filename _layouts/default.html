@@ -31,34 +31,20 @@
                   <th><a href="../teleco2/">TELECO2</a></th>
               </tr>
           </table>
-          <!--
-          <li><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          <li><a href="../index.md">Home</a></li>
-          <li><a href="../ise4/README.md">ISE4</a></li>
-          <li><a href="../ise5/README.md">ISE5</a></li>
-          <li><a href="../aysm6/README.md">AYSM6</a></li>
-          <li><a href="../teleco1/README.md">TELECO1</a></li>
-          <li><a href="../teleco2/README.md">TELECO2</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-          -->
         </nav>
       </div><!-- end header -->
 
     <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
-
+        <section>
+            {% if url == 'trq20.github.io/index' %}  
+            <div id="title">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <p>{{ site.description | default: site.github.project_tagline }}</p>
+                <hr>
+                <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+                <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+            </div>
+            {% endif %}
         {{ content }}
 
       </section>
