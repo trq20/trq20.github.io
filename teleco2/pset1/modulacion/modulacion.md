@@ -106,4 +106,4 @@ Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHu
 git push https://github.com/trq20/USERNAME.git teleco2/2021/am/modulacion
 ```
 
-Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/am/modulacion`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
+Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco2/2021/am/modulacion`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
