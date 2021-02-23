@@ -26,4 +26,4 @@ Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una her
 ## Actividades
 ---
 - [Presentación](pset0/presentacion.md).
-- [Temperatura](pset1/README.md).
+- [Transmisión UART](pset1/README.md).
