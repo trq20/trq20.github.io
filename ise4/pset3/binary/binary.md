@@ -54,7 +54,7 @@ Entren a [tinkercad](https://www.tinkercad.com/) y elijan la opción para crear 
 
 Pueden ver como queda el circuito abajo:
 
-![image-20210101023315719](C:\Users\fabri\AppData\Roaming\Typora\typora-user-images\image-20210101023315719.png)
+![image](./schematic.jpg)
 
 **Nota:** Los 7 segmentos son *ánodo común. Respeten especialmente como están conectados.
 

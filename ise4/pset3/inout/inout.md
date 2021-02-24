@@ -22,7 +22,7 @@ Entren al simulador, creen una cuenta y comiencen un nuevo circuito que responda
 
 Pueden elegir los pines que quieran para conectar todo, pero al final, debería quedarles algo como esto:
 
-![image-20210101152033185](C:\Users\fabri\AppData\Roaming\Typora\typora-user-images\image-20210101152033185.png)
+![image](./inout.jpg)
 
 Van a notar un botón que dice *</ Código*, cuando vayan ahí, se va a abrir una pestana con bloques, vayan a la opción de *Texto* y ahí van a notar unas líneas de código ya preparadas. Borren todo excepto las funciones `setup` y `loop`.
 
