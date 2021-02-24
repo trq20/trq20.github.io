@@ -72,6 +72,14 @@ El algoritmo que escriban debe ser capaz de:
 
 ## Como probar el código
 ---
+Pueden compilar el código escribiendo en la terminal:
+
+```
+gcc -o arrays arrays.c
+```
+
+Y luego van a ver aparecer un `arrays.exe` que pueden ejecutar desde la consola escribiendo `./arrays`.
+
 Salvando las diferencias en como decidan dar las instrucciones y los mensajes, el programa debería comportarse de esta manera:
 
 ```
