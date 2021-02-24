@@ -141,7 +141,7 @@ git checkout -b aysm6/2021/uart/pointers
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
 ```
-git push https://github.com/trq20/USERNAME.git ise4/2021/uart/pointers
+git push https://github.com/trq20/USERNAME.git aysm6/2021/uart/pointers
 ```
 
 Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/aysm6/2021/uart/pointers`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
