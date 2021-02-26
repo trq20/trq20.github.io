@@ -25,5 +25,5 @@ Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una her
 
 ## Actividades
 ---
-- [Presentación](pset0/presentacion.md).
-- [Ondas](pset1/README.md).
+- [Presentación](pset0/).
+- [Ondas](pset1/).

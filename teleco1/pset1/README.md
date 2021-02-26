@@ -4,6 +4,6 @@ Para arrancar, vamos a ir familiarizándonos con algunas cuestiones relacionadas
 
 ## Todo
 ---
-1. Entregar [ondas](ondas/ondas.md).
-2. Entregar [espectro](espectro/espectro.md).
+1. Entregar [ondas](ondas/).
+2. Entregar [espectro](espectro/).
 3. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLScxsukKykILeJ7kkmVjuOTlv4CUc9YCi1i0GX3cs_HnimGDKQ/viewform).

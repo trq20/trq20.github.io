@@ -7,7 +7,7 @@ Vamos a arrancar estudiando un poco el funcionamiento de un periférico del micr
 
 ## TODO
 ---
-1. Entregar [arrays](./arrays/arrays.md).
-2. Entregar [pointers](./pointers/pointers.md).
-3. Entregar [uart](./uart/uart.md).
+1. Entregar [arrays](arrays/).
+2. Entregar [pointers](pointers/).
+3. Entregar [uart](uart/).
 4. Completar este [formulario](https://docs.google.com/forms/u/1/d/e/1FAIpQLScLCBvcSAX8XHQvr6o5tnuLONQ92uH8h9vg_n0IP9uujXW_ew/viewform).

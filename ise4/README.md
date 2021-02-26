@@ -26,7 +26,7 @@ Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una her
 
 ## Actividades
 ---
-- [Presentación](pset0/presentacion.md).
-- [Introducción a C](pset1/README.md).
-- [Arrays](pset2/README.md).
-- [GPIO](pset3/README.md).
+- [Presentación](pset0/).
+- [Introducción a C](pset1/).
+- [Arrays](pset2/).
+- [GPIO](pset3/).
