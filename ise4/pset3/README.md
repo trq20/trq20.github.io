@@ -6,6 +6,6 @@ En estas actividades, vamos a enfocarnos en comenzar a programar específicament
 
 ## Todo
 ---
-1. Entregar [inout](inout/inout.md)
-2. Entregar [binary](binary/binary.md).
+1. Entregar [inout](inout/)
+2. Entregar [binary](binary/).
 3. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfhAFyF3UTU0GzH5JbYG4NpafUy4IIQti8SUcK_1s0y5pWvcw/viewform).
