@@ -38,19 +38,14 @@ Pueden usar el bloc de notas, Visual Studio Code o cualquier otro editor de text
 
 ## El repositorio
 ---
-Cuando tengan terminada la presentación, vamos a crear un repositorio y publicarlo en GitHub. Primero hay que crear el repositorio en GitHub. Para eso, visiten la cuenta a [la que se unieron](https://github.com/trq20) y busquen la opción de `New` para crear un nuevo repositorio. Algunas observaciones para lo que viene a continuación:
-
-- El nombre del repositorio debe ser su nombre de usuario de GitHub.
-- En la opción de publico o privado, pueden elegir el que prefieran. Si lo hacen público, cualquiera que visite el url puede ver el contenido del repositorio. Si eso no les molesta, pueden hacerlo público, sino, lo ponen como privado y solo ustedes y los usuarios con permiso pueden ver el contenido.
-
-Luego pueden crear el repositorio y van a ver una nueva pantalla. Lo importante de acá es el link que les muestra en una caja a la derecha que tiene un formato como `https://github.com/trq20/USERNAME.git` donde `USERNAME` va a ser el nombre de usuario que eligieron. Copien eso que vamos a necesitarlo en un momento.
+Para continuar, asegúrense de que tienen el repositorio creado en la cuenta de GitHub. Pueden verificarlo visitando `http://github.com/trq20/USERNAME` con `USERNAME` como su nombre de usuario de GitHub o entrando al enlace que se les envió por correo. Si la pagina no existe y ya habían completado este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSe2m_H-AmedQ_1u3ikfkPpQdamA2jGEHe3EnPI63YXIZo1Jvw/viewform), entonces den aviso para que se pueda solucionar.
 
 Volviendo a la carpeta donde creamos nuestra presentación, vamos a escribir:
 
 - `git init` para crear un repositorio local en esa ubicación.
 - `git add .` para agregar el `README.md` a nuestro repositorio.
 - `git commit -m "Initial commit"` como para poder guardar el estado de nuestro repositorio. 
-- `git push url master` donde `url` es el que copiaron de GitHub y `master` es el nombre de la rama que vamos a publicar. Ya vamos a hablar mas en detalle de lo que son las ramas.
+- `git push https://github.com/trq20/USERNAME.git master` donde `USERNAME` es su nombre de usuario y `master` es el nombre de la rama que vamos a publicar. Ya vamos a hablar mas en detalle de lo que son las ramas.
 
 Si no hay errores, visiten `https://github.com/trq20/USERNAME` y deberían poder ver el repositorio publicado.
 
