@@ -63,6 +63,7 @@ Y reemplazan lo que viene después de `math=` por la fórmula que quieran.
 $$
 f_{(t)}=A sin(2\pi f t)
 $$
+
 Donde: A es la amplitud (pueden usar 1), f es la frecuencia y t es el tiempo en el que se calcula la onda.
 
 - Van a necesitar algún tipo de bucle para recorrer la lista que tiene los valores de t donde van a analizar la onda. Hay muchas formas de hacerlos en Python, algunas mas eficientes que otras. Pueden ver algunos ejemplos en esta [página](https://www.w3schools.com/python/python_for_loops.asp).
