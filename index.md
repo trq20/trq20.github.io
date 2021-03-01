@@ -24,5 +24,5 @@
 
 ## Contactos
 ---
-- Server de Discord [![Discord Chat](https://img.shields.io/discord/789588051303202916.svg)](https://discord.gg/fCmFrq3Wc8).
+- Server de Discord [![Discord Chat](https://img.shields.io/discord/789588051303202916.svg)](https://discord.gg/fCmFrg3Wc8).
 - Telegram como `@carlassaraf`.
