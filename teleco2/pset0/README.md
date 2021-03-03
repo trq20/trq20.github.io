@@ -14,7 +14,7 @@ Abran la terminal de Windows.
 - El comando `ls` nos lista todos los archivos y carpetas en el directorio actual.
 - El comando `cd` nos permite cambiar de directorio. Si escribimos un nombre seguido del comando, la consola va a intentar entrar a ese directorio (si existe). Si el comando es seguido de `.` entonces la consola va a ir un directorio hacia atrás.
 
-Usen los comandos de arriba para navegar en la consola hasta encontrar la carpeta `presentacion`.
+Usen los comandos de arriba para navegar en la consola hasta encontrar la carpeta `presentacion`. Si tienen dudas de como usar la consola de Windows, pueden ver [este video](https://youtu.be/VPBe7yTWPD4).
 
 ## El README
 ---
