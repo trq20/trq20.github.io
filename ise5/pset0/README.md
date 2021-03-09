@@ -49,4 +49,4 @@ Volviendo a la carpeta donde creamos nuestra presentación, vamos a escribir:
 
 Si no hay errores, visiten `https://github.com/trq20/USERNAME` y deberían poder ver el repositorio publicado.
 
-Cuando terminen, completen este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfzYob_ncRwCmsmQw9ANbVTY5lSTaKw8_WUkWNjcIKaiBuhyA/viewform).
+Cuando terminen, completen este [formulario](https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHnw4uraNzTKm71fRoSA7eYGr-jENA0TGUAq0l2z4GBuWxqg/viewform).
