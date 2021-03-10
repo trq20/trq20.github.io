@@ -99,13 +99,13 @@ En la terminal ahora corran los comandos:
 ```
 git add README.md espectro.py
 git commit -m "Initial commit"
-git checkout -b teleco1/2021/intro/espectro
+git checkout -b teleco1/2021/ondas/espectro
 ```
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
 ```
-git push https://github.com/trq20/USERNAME.git teleco1/2021/intro/espectro
+git push https://github.com/trq20/USERNAME.git teleco1/2021/ondas/espectro
 ```
 
-Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/intro/espectro`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
+Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/ondas/espectro`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.

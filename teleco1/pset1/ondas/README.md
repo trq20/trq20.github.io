@@ -93,13 +93,13 @@ En la terminal ahora corran los comandos:
 ```
 git add .
 git commit -m "Initial commit"
-git checkout -b teleco1/2021/intro/ondas
+git checkout -b teleco1/2021/ondas/ondas
 ```
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
 
 ```
-git push https://github.com/trq20/USERNAME.git teleco1/2021/intro/ondas
+git push https://github.com/trq20/USERNAME.git teleco1/2021/ondas/ondas
 ```
 
-Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/intro/ondas`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
+Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/teleco1/2021/ondas/ondas`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
