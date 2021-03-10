@@ -9,8 +9,8 @@ Esta librería es para poder trabajar con Displays LCD de 16x2. De momento, sola
 Este es el constructor de clase y toma seis parámetros que son todos números de pin a los que conectaremos los pines del LCD.
 
 ```cpp
-LCD lcd(2, 3, 4, 5, 6, 7); // RS -> pin 2 | EN -> pin 3 | D4 -> pin 4  
-		                       // D5 -> pin 5 | D6 -> pin 6 | D7 -> pin 7
+LCD lcd(2, 3, 4, 5, 6, 7); 	// RS -> pin 2 | EN -> pin 3 | D4 -> pin 4  
+		                 	// D5 -> pin 5 | D6 -> pin 6 | D7 -> pin 7
 ```
 
 ### clear()
