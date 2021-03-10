@@ -73,7 +73,7 @@ El programa que desarrollen debe:
 
 [![](https://img.youtube.com/vi/ID VIDEO/0.jpg)](LINK A VIDEO)
 
-- Pueden mirar esta [página](https://www.notion.so/Librer-as-153c030dc4874e12a9fbd75a49dd08a0) para entender mejor como funcionan las librerías y que funciones pueden usar.  
+- Pueden mirar esta [página](../../../guides/libraries/) para entender mejor como funcionan las librerías y que funciones pueden usar.  
 - Recuerden que el valor que reciban de la función `analogRead` es un número entero que es proporcional a la temperatura, pero necesita que le hagan una conversión. Pueden pensarlo así:
 
 ```c

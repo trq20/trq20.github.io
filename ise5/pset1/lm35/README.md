@@ -37,7 +37,7 @@ Van a ver que el `main.cpp` está bastante vacío, solo tiene un par de librerí
 
 ## Circuito y simulación
 ---
-El circuito van a tener que diseñarlo y simularlo en Proteus. Pueden ir [acá](../../../guides/proteus8.md) para ver como instalarlo y las bases de como usarlo.
+El circuito van a tener que diseñarlo y simularlo en Proteus. Pueden ir [acá](../../../guides/proteus8/) para ver como instalarlo y las bases de como usarlo.
 
 Los componentes que van a necesitar mínimamente son:
 - ATmega328P.
@@ -69,7 +69,7 @@ Una vez que tengan el circuito armado y el programa compilado, tienen que hacer 
 
 [![](https://img.youtube.com/vi/ID VIDEO/0.jpg)](LINK A VIDEO)
 
-- Pueden mirar esta [página](../../../guides/librerias.md) para entender mejor como funcionan las librerías y que funciones pueden usar.  
+- Pueden mirar esta [página](../../../guides/libraries/) para entender mejor como funcionan las librerías y que funciones pueden usar.  
 - Recuerden que el valor que reciban de la función `analogRead` es un número entero que es proporcional a la temperatura, pero necesita que le hagan una conversión. Pueden pensarlo así:
 
 ```c
