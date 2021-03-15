@@ -42,6 +42,18 @@ gets(name);	// Entre parentesis pasamos la variable donde queremos guardar el te
 
 ## Como probar el código
 ---
+Compilen el programa escribiendo en la terminal:
+
+```
+gcc -o hello hello.c
+```
+
+Van a ver aparecer un `hello.exe`. Luego ejecuten el programa escribiendo:
+
+```
+./hello
+```
+
 Asegúrense de que el programa se comporte de la manera apropiada, especialmente para casos donde el que ejecute el programa tenga mas de un nombre o decida poner su nombre y apellido.
 
 ## Como entregar
@@ -61,9 +73,9 @@ Pueden agregar cualquier comentario u observación adicional que crean que pueda
 En la terminal ahora corran los comandos:
 
 ```
-git add diodo.c README.md
+git add hello.c README.md
 git commit -m "Initial commit"
-git checkout -b ise4/2021/c/diodo
+git checkout -b ise4/2021/c/hello
 ```
 
 Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHub con:
@@ -72,4 +84,4 @@ Por ultimo, hacer un push de la rama que recién crearon al repositorio en GitHu
 git push https://github.com/trq20/USERNAME.git ise4/2021/c/hello
 ```
 
-Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/tree/ise4/2021/c/hello`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
+Recuerden cambiar `USERNAME` por su nombre de usuario en GitHub. Pueden verificar si la entrega se hizo visitando el repositorio en `https://github.com/trq20/USERNAME/tree/ise4/2021/c/hello`. Si al entrar al link no encuentran nada, vuelvan a verificar los pasos de esta sección.
