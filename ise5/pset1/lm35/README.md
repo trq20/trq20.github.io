@@ -71,9 +71,9 @@ Una vez que tengan el circuito armado y el programa compilado, tienen que hacer 
 - Recuerden que el valor que reciban de la función `analogRead` es un número entero que es proporcional a la temperatura, pero necesita que le hagan una conversión. Pueden pensarlo así:
 
 ```c
-uint16_t val = analogRead(0);			    // Devuelve un numero entre 0 y 1023
+uint16_t val = analogRead(0);		// Devuelve un numero entre 0 y 1023
 float tension = (float)val * REF / 1023;	// Valor de tension que en el pin
-float temp = tension * 100;				    // Valor de temperatura que mide el LM35
+float temp = tension * 100;  // Valor de temperatura que mide el LM35
 ```
 
 Esto puede hacerse de forma mas compacta, pero la idea es que tenemos que hacer la lectura, luego convertirla a tensión con la relación de la segunda linea (donde `REF` es el valor de tensión de referencia que elegimos). Este paso es indistinto para el sensor que estemos usando, mientras que el último paso es convertir el valor de tensión que entrega el sensor a la magnitud que nos interesa (en este caso temperatura) y ahí dependeremos de como se comporte cada sensor. En nuestro caso, esa cuenta sale de pensar:

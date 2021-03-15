@@ -35,7 +35,7 @@ La justificación de expresión pueden verla en este [apartado](../am-formula.md
 Dentro de la carpeta `pset1/introAM` clonen del repositorio `teleco2` la rama `pset1/intoAM`. Escriban en la terminal:
 
 ```
-git clone -b pset1/modulacionAM https://github.com/trq20/teleco2.git
+git clone -b pset1/modulacion https://github.com/trq20/teleco2.git
 ```
 
 ## Entendiendo el programa
