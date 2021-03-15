@@ -16,11 +16,11 @@
 
 ## Guías
 ---
-- [VS Code - AVR](guides/VSCodeAVR.md).
+- [VS Code - AVR](guides/vscode-avr).
 - [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 - [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 - [Git](https://education.github.com/git-cheat-sheet-education.pdf).
-- [Proteus 8](guides/proteus.md).
+- [Proteus 8](guides/proteus8).
 
 ## Contactos
 ---
