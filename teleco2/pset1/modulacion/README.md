@@ -25,7 +25,7 @@ Donde:
 A partir de estas dos señales, podemos obtener la expresión de una onda de AM con la siguiente expresión:
 
 $$
-E_{AM}(t)= E_c sin(2\pi f_ct) + \frac{E_m}{2} sin[2 \pi (f_c-f_m)t] - \frac{E_m}{2} sin[2 \pi (f_c+f_m)t]
+E_{AM}(t)= E_c sin(2\pi f_ct) + \frac{E_m}{2} cos[2 \pi (f_c-f_m)t] - \frac{E_m}{2} cos[2 \pi (f_c+f_m)t]
 $$
 
 La justificación de expresión pueden verla en este [apartado](../am-formula.md).
@@ -95,7 +95,7 @@ Pueden agregar cualquier comentario u observación adicional que crean que pueda
 En la terminal ahora corran los comandos:
 
 ```
-git add README.md am.py
+git add .
 git commit -m "Initial commit"
 git checkout -b teleco2/2021/am/modulacion
 ```
