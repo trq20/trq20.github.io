@@ -26,15 +26,13 @@ Hola Fabrizio!
 
 [![](https://img.youtube.com/vi/ID)](LINK A VIDEO)
 
-- Van a necesitar trabajar con un tipo de dato especial que en otros lenguajes se denomina `string`. Ese tipo de dato no existe en el lenguaje C, pero podemos solucionarlo temporalmente así:
+- Van a necesitar trabajar con un tipo de dato especial, una cadena de caracteres, que en otros lenguajes se denomina `string`. No vamos a entrar en detalles ahora en lo que es una cadena de caracteres, pero vamos a declararla de la siguiente forma:
 
 ```c
-typedef char * string;	// Creamos el tipo de dato
-...
-string name;		   // Declaramos la variable 
+char name[20];		   // Puedo almacenar hasta 20 caracteres 
 ```
 
-- Para tratar con un `string`, sugerimos la función `gets` para poder hacerlo de forma mas sencilla:
+- Para tratar con esta cadena, sugerimos la función `gets` para poder hacerlo de forma mas sencilla:
 
 ```c
 gets(name);	// Entre parentesis pasamos la variable donde queremos guardar el texto
