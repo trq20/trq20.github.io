@@ -121,7 +121,7 @@ Pueden agregar cualquier comentario u observación adicional que crean que pueda
 En la terminal ahora corran los comandos:
 
 ```
-git add .
+git add README.md main.cpp img.png
 git commit -m "Initial commit"
 git checkout -b ise5/2021/temperatura/lm35
 ```
