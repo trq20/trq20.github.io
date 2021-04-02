@@ -7,7 +7,7 @@ Los moduladores son circuitos que se encargan de mezclar de alguna forma dos se�
 
 El mezclado puede lograrse con dispositivos como diodos o transistores (BJT, FET o MOSFET) en distintas configuraciones, pero estos dan como resultado una mezcla como estos:
 
-![](./fourier.bmp)
+![](./fourier.BMP)
 
 Donde la portadora vale `10KHz` y la moduladora `1KHz` pero en la mezcla, no solo aparecen la moduladora, la portadora y dos frecuencias laterales, sino que además aparecen una serie de armónicos que distorsionan la señal que queremos. Por ese motivo, para obtener una AM como queríamos, estos circuitos van a tener generalmente algún tipo de filtro en la salida para rechazar las frecuencias que no nos interesan. 
 
