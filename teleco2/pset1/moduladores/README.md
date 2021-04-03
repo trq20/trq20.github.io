@@ -23,4 +23,3 @@ Las consignas de la actividad junto con los circuitos que vamos a analizar van a
 ```
 git clone -b pset1/moduladores https://github.com/trq20/teleco2
 ```
-
