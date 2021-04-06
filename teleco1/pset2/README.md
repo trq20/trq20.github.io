@@ -5,6 +5,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 # Electromagnetismo
 ---
 
+<div style="align: left; display: block">
 Una parte fundamental de la electrónica y las telecomunicaciones es el electromagnetismo. Originalmente se creía que la electricidad y el magnetismo eran fenómenos aislados y no se comprendía del todo como operaban.
 
 Con el tiempo y muchos estudios de diversos físicos, se comprendió que ambos fenómenos estaban relacionados, de hecho, que eran uno solo. 
@@ -12,8 +13,13 @@ Con el tiempo y muchos estudios de diversos físicos, se comprendió que ambos f
 Este descubrimiento revolucionó completamente la tecnología y abrió muchísimas puertas a nuevas ideas y desarrollos.
 
 Para comprender a fondo el electromagnetismo, es necesario conocer herramientas matemáticas muy complejas, vamos a intentar abordar los conceptos mas importantes de este fenómeno.
+</div>
+
+<div style="align: right; display: block">
 
 [![](https://img.youtube.com/vi/_lrWIogPNFo/0.jpg)](https://www.youtube.com/watch?v=_lrWIogPNFo)
+
+</div>
 
 ## Algunos conceptos
 ---
