@@ -22,7 +22,7 @@ float floats[3] = { 1.2, 3.14, 75.433 };    // Arreglo de tres float ya llenado
 Pueden llenarse con valores determinados al momento de declararse o llenarse luego de acuerdo a las circunstancias. El caso del arreglo de caracteres es uno que vamos a analizar en detalle en la próxima actividad. Luego se puede acceder al elemento en particular indicando el índice del mismo:
 
 ```c
-printf("%f", floats[1]);    // Imprimiria el 3.14 por ser el elemento 1
+printf("%f", &floats[1]);    // Imprimiria el 3.14 por ser el elemento 1
 ```
 
 ## Donde empezar
