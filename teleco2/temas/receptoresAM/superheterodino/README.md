@@ -58,8 +58,8 @@ $$
 
 Resumiendo, la `frecuencia imagen` es una frecuencia distinta a la que se sintonizó, pero que al mezclarse con el oscilador local, también produce una frecuencia intermedia válida para el receptor.
 
-La solución a esto es asegurarnos que el ancho de banda de entrada al receptor sea capaz de rechazar esta frecuencia imagen. Como la frecuencia sintonizada esta a una distancia de dos veces la frecuencia intermedia, podemos decir que el ancho de banda mínimo que necesitamos es:
+La solución a esto es asegurarnos que el ancho de banda de entrada al receptor sea capaz de rechazar esta frecuencia imagen. Como la frecuencia sintonizada esta a una distancia de dos veces la frecuencia intermedia, podemos decir que el ancho de banda máximo que necesitamos es:
 
 $$
-\Delta F_{min} = 2 FI
+\Delta F_{max} = 2 FI
 $$

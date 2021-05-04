@@ -111,7 +111,7 @@ Dentro de la carpeta `pset1/lm35` abrir la terminal y escribir `git init`. Luego
 
 Alumno: Nombre y apellido
 Curso: Curso
-Materia: Adquisicion de Datos
+Materia: Adquisición de Datos
 
 [Imagen del circuito]
 ```

@@ -5,3 +5,4 @@ Para arrancar, vamos a arrancar con algunos conceptos básicos de electromagneti
 ## Todo
 ---
 1. Entregar [electromagnetismo](electromagnetismo/).
+2. Entregar [ondas estacionarias](estacionarias/).
