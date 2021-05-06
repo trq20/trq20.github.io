@@ -91,13 +91,13 @@ Una aclaración: si bien hablamos de nodos y antinodos como un punto, en la real
 Por último, analicemos lo que ocurre si agregamos ahora un segundo plano conductor a una distancia L del primero y paralelo al mismo. Por un lado, sabemos que ambos conductores tienen que ser planos nodales para el campo eléctrico. Si eso no ocurre, no puede existir la onda estacionaria. Por ese motivo, L tendrá que ser un múltiplo de λ/2, por lo que solo habrá ciertas longitudes de onda que satisfagan esa condición, tal que:
 
 $$
-{\lambda}_n = \cfrac {2L}{n}, \space n \in \Z
+{\lambda}_n = \frac {2L}{n}, \space n \in \Z
 $$
 
 Mientras que las frecuencias que cumplen con esa condición serán:
 
 $$
-f_n = \cfrac{c}{{\lambda}_n}=n \cfrac{c}{2L}
+f_n = \frac{c}{\lambda_n} = n \frac{c}{2L}
 $$
 
 Con esta información y midiendo las posiciones nodales, podemos calcular la frecuencia que esta oscilando dentro de la cavidad. Noten que hay una frecuencia mínima (n=1) para la cavidad y, a partir de ahí las frecuencias son múltiplos enteros de esa `frecuencia fundamental`. Esta frecuencia junto con todos los múltiplos enteros de ella son denominados `frecuencias armónicas`. 
