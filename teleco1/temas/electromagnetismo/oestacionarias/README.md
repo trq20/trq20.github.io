@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-\vec{B_z}(x,t)=-B_{max}cos(kx)cos(\omega t)
+\vec{B_z}(x,t)=-2B_{max}cos(kx)cos(\omega t)
 $$
 
 El desarrollo de estas ecuaciones no se va a hacer aquí, va a quedar en el apéndice de esta sección, simplemente presentamos las ecuaciones y destacamos que:
@@ -59,25 +59,25 @@ Intentemos ver si podemos determinar de manera general donde se encuentran estos
 En el caso del campo eléctrico, la secuencia de nodos viene:
 
 $$
-0, \cfrac{1}{2} \lambda, \lambda,\cfrac{3}{2}\lambda, 2\lambda...
+0,\space \cfrac{1}{2} \lambda, \space \lambda, \space \cfrac{3}{2}\lambda, \space2\lambda...
 $$
 
 Por lo que podemos deducir que los planos nodales en el campo eléctrico ocurren cada:
 
 $$
-\cfrac{n}{2}\lambda, n \in \Z
+\cfrac{n}{2}\lambda, \space n \in \Z
 $$
 
 En el caso de los antinodos, la secuencia es:
 
 $$
-\cfrac{1}{4}\lambda,\cfrac{3}{4}\lambda,\cfrac{5}{4}\lambda,\cfrac{7}{4}\lambda...
+\cfrac{1}{4}\lambda,\space \cfrac{3}{4}\lambda,\space \cfrac{5}{4}\lambda,\space \cfrac{7}{4}\lambda...
 $$
 
 De manera general:
 
 $$
-\Bigg( \cfrac{n}{2} + \cfrac{1}{4} \Bigg) \lambda,n \in \Z
+\Bigg( \cfrac{n}{2} + \cfrac{1}{4} \Bigg) \lambda, \space n \in \Z
 $$
 
 Mientras que en el caso del campo magnético, es al revés que como describimos recién.
@@ -91,7 +91,7 @@ Una aclaración: si bien hablamos de nodos y antinodos como un punto, en la real
 Por último, analicemos lo que ocurre si agregamos ahora un segundo plano conductor a una distancia L del primero y paralelo al mismo. Por un lado, sabemos que ambos conductores tienen que ser planos nodales para el campo eléctrico. Si eso no ocurre, no puede existir la onda estacionaria. Por ese motivo, L tendrá que ser un múltiplo de λ/2, por lo que solo habrá ciertas longitudes de onda que satisfagan esa condición, tal que:
 
 $$
-{\lambda}_n = \cfrac {2L}{n}, n \in \Z
+{\lambda}_n = \cfrac {2L}{n}, \space n \in \Z
 $$
 
 Mientras que las frecuencias que cumplen con esa condición serán:

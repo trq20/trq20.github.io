@@ -15,14 +15,14 @@ Los arreglos se pueden declarar de la siguiente forma:
 
 ```c
 int ints[5];                                // Arreglo de enteros de cinco elementos
-char chars[] = "Hi";                        // Arreglo de dos caracteres ya llenado
+char chars[] = "Hi";                        // Arreglo de tres caracteres ya llenado
 float floats[3] = { 1.2, 3.14, 75.433 };    // Arreglo de tres float ya llenado
 ```
 
 Pueden llenarse con valores determinados al momento de declararse o llenarse luego de acuerdo a las circunstancias. El caso del arreglo de caracteres es uno que vamos a analizar en detalle en la próxima actividad. Luego se puede acceder al elemento en particular indicando el índice del mismo:
 
 ```c
-printf("%f", &floats[1]);    // Imprimiria el 3.14 por ser el elemento 1
+printf("%f", floats[1]);    // Imprimiria el 3.14 por ser el elemento 1
 ```
 
 ## Donde empezar
