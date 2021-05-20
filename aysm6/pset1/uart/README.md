@@ -49,7 +49,7 @@ Escribir el código necesario para que las funciones de `UART.c` cumplan con lo 
   - Tx habilitado pero Rx deshabilitado.
   - Polaridad normal.
   - Sin interrupciones.
-  - Velocidad normal.
+  - Velocidad doble.
 - `UART_Putc` debe ser capaz de enviar un **único** byte por UART, verificando los flags apropiados. 
 - `UART_Prints` debe poder enviar una cadena de caracteres por UART.
 
@@ -67,7 +67,7 @@ temperatura & setpoint |
 - En cuanto a como calcular el valor que va en el registro `UBRR0` para elegir la velocidad, tienen esta ecuación que pueden usar:
 
 $$
-BAUD=\frac{f_{osc}}{16(UBRR0+1)}
+BAUD=\frac{f_{osc}}{8(UBRR0+1)}
 $$
 
 - En `GPIO.c` tienen las variables `temp` y `sp` que tienen guardadas la temperatura y el valor del setpoint respectivamente.
@@ -93,6 +93,8 @@ Dentro de la carpeta `pset1/uart` abrir la terminal y escribir `git init`. Luego
 Alumno: Nombre y apellido
 Curso: Curso
 Materia: Computadoras y Sistemas de Control
+
+[Imagen del circuito simulado]
 ```
 
 Pueden agregar cualquier comentario u observación adicional que crean que pueda ser útil dentro de este archivo.
@@ -100,7 +102,7 @@ Pueden agregar cualquier comentario u observación adicional que crean que pueda
 En la terminal ahora corran los comandos:
 
 ```
-git add .
+git add UART.c GPIO.c README.md img.png
 git commit -m "Initial commit"
 git checkout -b aysm6/2021/uart/uart
 ```
