@@ -62,19 +62,19 @@ while(cadena[i] != '\0') {
 Estos son algunos ejemplos de lo que deberían obtener en estos casos:
 
 ```
-$ ./word frases/gandalf.txt
+$ ./word gandalf.txt
 Cantidad de palabras: 17
 Cantidad de oraciones: 1
 ```
 
 ```
-$ ./word frases/geralt.txt
+$ ./word geralt.txt
 Cantidad de palabras: 46
 Cantidad de oraciones: 4
 ```
 
 ```
-$ ./word frases/roland.txt
+$ ./word roland.txt
 Cantidad de palabras: 66
 Cantidad de oraciones: 6
 ```
