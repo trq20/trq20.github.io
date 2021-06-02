@@ -9,5 +9,5 @@ En estas actividades vamos a enfocarnos en escribir algunos programas en C que n
 ---
 1. Entregar [lm35](lm35/).
 2. Entregar [termistor](termistor/).
-3. Entregar [termocupla](termocupla/).
+3. Entregar [termocupla](termocupla/) (descontinuado).
 4. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSctee9vEVOSz7zpwY4OX0-B3q2za7FRiTUR9ROUPeq4DsCa-Q/viewform).
