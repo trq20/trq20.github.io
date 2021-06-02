@@ -6,3 +6,4 @@ Para arrancar, vamos a arrancar con algunos conceptos básicos de electromagneti
 ---
 1. Entregar [electromagnetismo](electromagnetismo/).
 2. Entregar [ondas estacionarias](estacionarias/).
+3. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdNSmKlG-qlbfL4QxFssuyTVXrPLGxGrI1admV3VnyhBsHiGA/viewform).
