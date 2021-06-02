@@ -7,6 +7,6 @@ En estas actividades vamos a enfocarnos en entender el concepto de un array y co
 
 ## Todo
 ---
-1. Entregar [word](word/)
+1. Entregar [word](https://github.com/trq20/ise4/tree/pset2/word)
 2. Entregar [cifrado](cifrado/).
 3. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfBpPmQ2je4IbxS2wTUqQCGBdjnZdRLQvi2qxRVInt-7hN8xg/viewform).
