@@ -27,3 +27,4 @@ Para hacer las distintas entregas de actividades, vamos a usar `git`. Es una her
 ---
 - [Presentación](pset0/).
 - [Temperatura](pset1/).
+- [Presión](pset2/).
