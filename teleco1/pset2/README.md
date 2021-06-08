@@ -4,6 +4,6 @@ Para arrancar, vamos a arrancar con algunos conceptos básicos de electromagneti
 
 ## Todo
 ---
-1. Entregar [electromagnetismo](electromagnetismo/).
-2. Entregar [ondas estacionarias](estacionarias/).
+1. Entregar [electromagnetismo](https://github.com/trq20/teleco1/tree/pset2/electromagnetismo).
+2. Entregar [ondas estacionarias](https://github.com/trq20/teleco1/tree/pset2/estacionarias).
 3. Completar este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdNSmKlG-qlbfL4QxFssuyTVXrPLGxGrI1admV3VnyhBsHiGA/viewform).
